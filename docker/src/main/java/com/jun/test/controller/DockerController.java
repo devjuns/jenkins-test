@@ -11,6 +11,6 @@ public class DockerController {
 		System.out.println("hohoho");
 		System.out.println("hohoho");
 		System.out.println("hohoho");
-		return "docker!";
+		return "hohoho";
 	}
 }
