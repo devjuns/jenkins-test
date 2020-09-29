@@ -10,12 +10,10 @@ public class DockerController {
 	public String docker() {
 		System.out.println("hohoho");
 		System.out.println("hohoho");
-		System.out.println("hohoho");
 		return "hohoho";
 	}
 	@GetMapping(value = "/hehe")
 	public String hehe() {
-		System.out.println("hohoho");
 		System.out.println("hohoho");
 		System.out.println("hohoho");
 		return "hehe";
