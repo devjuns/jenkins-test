@@ -10,7 +10,6 @@ public class DockerController {
 	public String docker() {
 		System.out.println("hohoho");
 		System.out.println("hohoho");
-		System.out.println("hohoho");
 		return "docker!";
 	}
 }
