@@ -8,9 +8,9 @@ public class DockerController {
 
 	@GetMapping(value = "/docker")
 	public String docker() {
-		System.out.println("!@!");
-		System.out.println("!@!");
-		System.out.println("!@!");
+		System.out.println("hohoho");
+		System.out.println("hohoho");
+		System.out.println("hohoho");
 		return "docker!";
 	}
 }
