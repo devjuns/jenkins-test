@@ -13,4 +13,11 @@ public class DockerController {
 		System.out.println("hohoho");
 		return "hohoho";
 	}
+	@GetMapping(value = "/hehe")
+	public String hehe() {
+		System.out.println("hohoho");
+		System.out.println("hohoho");
+		System.out.println("hohoho");
+		return "hehe";
+	}
 }
